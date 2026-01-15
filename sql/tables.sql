@@ -24,3 +24,4 @@ CREATE TABLE IF NOT EXISTS orders_clean (
     week INT,
     day_of_week INT
 );
+SHOW TABLES;
